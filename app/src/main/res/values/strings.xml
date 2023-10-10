@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Learnning kotlin</string>
+    <string name="profile">Profile</string>
+    <string name="guard">Guard</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="home">Home</string>
+    <string name="guard1">GUARD</string>
+    <string name="text">Tis is my family app. my personal app for my used. so, don\'t see this!</string>
+    <string name="text1">Tis is my family app. my personal app for my used. so, don\'t see this!</string>
+    <string name="sos">SOS</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="my_family">My Family</string>
+    <string name="security">security</string>
+    <string name="calculator">calculator</string>
+    <string name="open_screen">Open screen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
